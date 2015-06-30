@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=HBONow
+Icon=/home/mediacenter/Cloak/HBONow/HBONow.png
+Exec=/home/mediacenter/Cloak/HBONow/./HBONow

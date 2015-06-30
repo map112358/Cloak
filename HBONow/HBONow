@@ -1,0 +1,3 @@
+#!/bin/bash
+firefox -foreground -url hbonow.com
+
